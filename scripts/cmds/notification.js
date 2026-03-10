@@ -13,7 +13,7 @@ module.exports = {
     author: "ArYAN",
     countDown: 10,
     role: 2,
-    prefix: true,
+    nixPrefix: true,
     category: "owner",
     description: "Send notification from admin to all groups.",
     guide: {
