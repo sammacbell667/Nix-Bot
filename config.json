@@ -1,31 +1,31 @@
 {
-  "prefix": "!",
-  "botName": "NixBot",
+  "prefix": ",",
+  "botName": "Lowen_bot",
   "ownerNumber": [
-    "60405074407566"
+    "+2290168481362"
   ],
   "premiumNumber": [
-    "60405074407566",
-    "60405074407566"
+    "+2290168481362",
+    "+2290168481362"
   ],
   "bannedNumber": [],
-  "devsPhoneNumber": "60405074407566@s.whatsapp.net",
+  "devsPhoneNumber": "+2290168481362@s.whatsapp.net",
   "port": 5000,
   "rolesARE": "2 for admin, 3 for developer",
   "roles": {
     "2": [
-      "60405074407566"
+      "+2290168481362"
     ],
     "3": [
-      "60405074407566"
+      "+2290168481362"
     ]
   },
   "CoolDownForDev": false,
   "Prefix": false,
   "loginMethod": "paircode",
-  "apis": "https://api.nixhost.top",
+  "apis": "rnd_1k6z9lHvg9GN2xk3rpaKy1lsuAeA",
   "keys": "",
-  "adminName": "Aryan Rayhan",
+  "adminName": "Chacha",
   "support": "https://chat.whatsapp.com/FTMWN76de0JETYPxmLe6XR",
   "database": {
     "type": "sqlite",
